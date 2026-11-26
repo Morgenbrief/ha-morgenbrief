@@ -1,5 +1,7 @@
 # Morgenbrief: a daily morning brief as a Home Assistant add-on
 
+> **Outdated (26 Nov 2026):** This repository is a snapshot from around version 1.6 and is no longer updated. The add-on has since been developed further locally (now version 2.4, renamed "Tagesbrief"). Issues and pull requests here are not monitored.
+
 Every morning at a fixed time this add-on reads my Google Calendar and Gmail, sorts what matters, checks traffic and weather, and sends a push notification to my phone via the Home Assistant companion app. Tapping it opens a full page inside Home Assistant (Ingress).
 
 The UI and the code comments are in German, because I am. The screenshots below are generated from made-up demo data.
